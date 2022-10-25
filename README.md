@@ -2,17 +2,17 @@ Bekir Cebeci
 
 ## Hi, I am a MERN Stack Developer 👩‍💻
 
-🔭 I am open for a full-time Full Stack Developer job.
+🔭 I am open for a full-time Full Stack Developer job..
 
-🌱 I like to build websites and web applications in JavaScript, React to solve real Business problems.
+🌱 I like to build websites and web applications in JavaScript, React, Nodejs, Mongodb, Express and Angular..
 
 💬 Ask me about my codes. If you are willing to learn, feel free to ask..
 
 👯 I am always willing to learn new Technologies. In future, I want to learn Python for datascience and machine learning..
 
-😄 My Portfolio Codes are Bankapp, Sabopay, MeetupGetup, Teknoza (E-Shop).
+😄 My Portfolio Codes are Bankapp, Sabopay, MeetupGetup, Teknoza (E-Shop)..
 
-📫 My Focus is backend. I write a backend for Teknoza project. I want to add MySQL and PosgresQL dataase for his project.
+📫 My Focus is backend. I write a backend for Teknoza project. I want to add MySQL and PosgresQL database for his project..
 
 ---
 
