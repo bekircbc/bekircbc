@@ -80,7 +80,13 @@ Bekir Cebeci
 
 ---
 
-## Footer
+## Contact
+
+Feel free to contact..
+
+<br/>
+
+---
 
 ![logo](./public/images/footer.png)
 
