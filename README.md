@@ -76,6 +76,8 @@ Bekir Cebeci
 
 ---
 
+## Footer
+
 ![logo](./public/images/footer.png)
 
 <!--
