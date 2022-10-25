@@ -74,6 +74,10 @@ Bekir Cebeci
 
 <img align="left" alt="My Projects" width="40px" style="margin:10px;"  src="./public/images/brcke.png" />
 
+---
+
+![logo](./public/images/footer.png)
+
 <!--
 **bekircbc/bekircbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
