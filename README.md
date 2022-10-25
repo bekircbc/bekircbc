@@ -10,13 +10,11 @@ Bekir Cebeci
 
 👯 I am always willing to learn new Technologies. In future, I want to learn Python for datascience and machine learning..
 
-😄 My Portfolio Codes are Bankapp, Sabopay, MeetupGetup, Teknoza (E-Shop)..
-
-📫 My Focus is backend. I write a backend for Teknoza project. I want to add MySQL and PosgresQL database for his project..
+😄 My Portfolio Codes are Bankapp, Sabopay, MeetupGetup, Teknoza (E-Shop).. My Focus is backend. I write a good-protected backend for Teknoza project. I want to add versions with MySQL and PosgresQL database for this project..
 
 ---
 
-### Skills:
+## Skills:
 
 <img align="left" alt="HTML5" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -44,7 +42,9 @@ Bekir Cebeci
 <br />
 <br />
 
-### New Skills to Develop:
+---
+
+## New Skills to Develop:
 
 <img align="left" alt="Angular" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
@@ -61,6 +61,18 @@ Bekir Cebeci
 <br />
 <br />
 <br />
+
+---
+
+## My Projects
+
+<img align="left" alt="meetupgetup" width="40px" style="margin:10px;"  src="./public/images/meetupgetup.png" />
+
+<img align="left" alt="My Projects" width="40px" style="margin:10px;"  src="./public/images/EAD.png" />
+
+<img align="left" alt="My Projects" width="40px" style="margin:10px;"  src="./public/images/icon.png" />
+
+<img align="left" alt="My Projects" width="40px" style="margin:10px;"  src="./public/images/brcke.png" />
 
 <!--
 **bekircbc/bekircbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
