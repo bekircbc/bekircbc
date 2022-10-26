@@ -58,6 +58,8 @@ Bekir Cebeci
 
 <img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
+<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
+
 <br />
 <br />
 <br />
