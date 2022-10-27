@@ -99,8 +99,22 @@ Bekir Cebeci
 ## Github Organizations
 
 [<img align="left" alt="cbczone" width="40px" style="margin:10px;" src="./public/images/brcke.png" />](https://github.com/cbczone)
+
 [<img align="left" alt="D04-2" width="40px" style="margin:10px;" src="./public/images/brcke.png" />](https://github.com/D04-2)
+
 [<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="./public/images/brcke.png" />](https://github.com/final-project-onlineshop)
+
+<br />
+<br />
+<br />
+
+---
+
+## Agile - Srum - Kanban
+
+<img align="left" alt="Trello" width="40px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />
+
+[<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/orgs/final-project-onlineshop/projects/2/views/5)
 
 <br />
 <br />
