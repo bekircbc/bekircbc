@@ -78,6 +78,8 @@ Bekir Cebeci
 
 [<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://github.com/final-project-onlineshop/teknoza)
 
+[<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-backend.bscebeci.de/api/products)
+
 <br />
 <br />
 <br />
