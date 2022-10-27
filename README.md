@@ -76,6 +76,16 @@ Bekir Cebeci
 
 [<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://bankmodel-js-jsonserver.vercel.app/)
 
+## Team Projects
+
+### Github Organizations
+
+[<img align="left" alt="cbczone" width="40px" style="margin:10px;" src="./public/images/brcke.png" />](https://github.com/cbczone)
+[<img align="left" alt="D04-2" width="40px" style="margin:10px;" src="./public/images/brcke.png" />](https://github.com/D04-2)
+[<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="./public/images/brcke.png" />](https://github.com/final-project-onlineshop)
+
+---
+
 [<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://github.com/final-project-onlineshop/teknoza)
 
 [<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-backend.bscebeci.de/api/products)
