@@ -72,6 +72,8 @@ Bekir Cebeci
 
 [<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;"  src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
 
+[<img align="left" alt="apexcharts" width="40px" style="margin:10px;"  src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" />](https://apexchart-navbar-reactvite.netlify.app/)
+
 [<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://basic-streamingapp.vercel.app/allmeetups)
 
 [<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://bankmodel-js-jsonserver.vercel.app/)
