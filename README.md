@@ -112,7 +112,7 @@ Bekir Cebeci
 
 ---
 
-## Agile - Srum - Kanban
+## Project Management
 
 <img align="left" alt="Trello" width="200px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />
 
