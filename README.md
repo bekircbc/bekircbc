@@ -112,7 +112,7 @@ Bekir Cebeci
 
 ## Agile - Srum - Kanban
 
-<img align="left" alt="Trello" width="40px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />
+<img align="left" alt="Trello" width="150px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />
 
 [<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/orgs/final-project-onlineshop/projects/2/views/5)
 
