@@ -70,13 +70,13 @@ Bekir Cebeci
 
 [<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;"  src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
 
-[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />]
+[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />]()
 
-[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />]
+[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />]()
 
-[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />]
+[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />]()
 
-[<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />]
+[<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />]()
 
 <br />
 <br />
