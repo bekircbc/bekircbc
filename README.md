@@ -10,7 +10,7 @@ Bekir Cebeci
 
 👯 I am always willing to learn new Technologies. In future, I want to learn Python for datascience and machine learning..
 
-😄 My Portfolio Codes are Bankapp, Sabopay, MeetupGetup, Teknoza (E-Shop).. My Focus is backend. I write a good-protected backend for Teknoza project. I want to add versions with MySQL and PosgresQL database for this project..
+😄 My Portfolio Codes are Bankapp, MeetupGetup, Freizeitpark, Teknoza (E-Shop).. My Focus is backend. I wrote a good-protected backend for Teknoza project. I want to add new versions with MySQL and PosgresQL database for this project..
 
 ---
 
@@ -34,7 +34,7 @@ Bekir Cebeci
 
 <img align="left" alt="SQL" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 
 <img align="left" alt="Git" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
@@ -50,15 +50,15 @@ Bekir Cebeci
 
 <img align="left" alt="Mongodb" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
+<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
+
 <img align="left" alt="PosgresQL" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="Python" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-
 <img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
-<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
+<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 <br />
 <br />
@@ -68,13 +68,15 @@ Bekir Cebeci
 
 ## My Projects
 
+<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;"  src="./public/images/mtg.png" />
+
+<img align="left" alt="EAD" width="40px" style="margin:10px;"  src="./public/images/EAD.png" />
+
 <img align="left" alt="meetupgetup" width="40px" style="margin:10px;"  src="./public/images/meetupgetup.png" />
 
-<img align="left" alt="My Projects" width="40px" style="margin:10px;"  src="./public/images/EAD.png" />
+<img align="left" alt="CBC Bank" width="40px" style="margin:10px;"  src="./public/images/icon.png" />
 
-<img align="left" alt="My Projects" width="40px" style="margin:10px;"  src="./public/images/icon.png" />
-
-<img align="left" alt="My Projects" width="40px" style="margin:10px;"  src="./public/images/brcke.png" />
+<img align="left" alt="Teknoza" width="180px" style="margin:10px;"  src="./public/images/logo-teknoza.png" />
 
 <br />
 <br />
