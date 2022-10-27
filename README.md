@@ -72,11 +72,11 @@ Bekir Cebeci
 
 [<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />]()
 
-[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />]()
+[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://basic-streamingapp.vercel.app/allmeetups)
 
-[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />]()
+[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://bankmodel-js-jsonserver.vercel.app/)
 
-[<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />]()
+[<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://github.com/final-project-onlineshop/teknoza)
 
 <br />
 <br />
