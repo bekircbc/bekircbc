@@ -104,6 +104,8 @@ Bekir Cebeci
 
 [<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/112622793?s=200&v=4" />](https://github.com/final-project-onlineshop)
 
+[<img align="left" alt="devteam" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/105494394?s=200&v=4" />](https://github.com/bc-organization-devteam)
+
 <br />
 <br />
 <br />
