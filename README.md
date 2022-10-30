@@ -20,9 +20,9 @@ Bekir Cebeci
 
 <img align="left" alt="CSS3" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="CSS3" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Sass" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="CSS3" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Bootstrap" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img align="left" alt="JavaScript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -52,15 +52,33 @@ Bekir Cebeci
 
 <img align="left" alt="Mongodb" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
+<img align="left" alt="Cypress" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
 
 <img align="left" alt="PosgresQL" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="Python" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Django" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 <img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+
+<br />
+<br />
+<br />
+
+---
+
+## Test Technologies
+
+<img align="left" alt="Rest" width="120px" style="margin:10px;"  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2017/04/VREST-Logo.jpg" />
+
+<img align="left" alt="Http Master" width="120px" style="margin:10px;"  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2017/04/HttpMaster-Logo.jpg" />
+
+<img align="left" alt="Postman" width="70px" style="margin:10px;"  src="https://mms.businesswire.com/media/20190619005152/en/728506/23/pm-logo-vert%402x-100.jpg" />
+
+<img align="left" alt="Cypress" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
+
+<img align="left" alt="Jasmine and Karma" width="80px" style="margin:10px;"  src="https://miro.medium.com/max/800/1*QrhFj55-J6ATE3uIcczwmw.png" />
 
 <br />
 <br />
