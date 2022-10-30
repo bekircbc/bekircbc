@@ -110,11 +110,13 @@ Bekir Cebeci
 
 ## Team Projects
 
-[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />]()
-
 [<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://github.com/final-project-onlineshop/teknoza)
 
 [<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-backend.bscebeci.de/api/products)
+
+[<img align="left" alt="Course Page" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2/DCI-Course)
+
+[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />]()
 
 <br />
 <br />
