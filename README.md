@@ -118,11 +118,11 @@ Bekir Cebeci
 
 ## Github Organizations
 
-[<img align="left" alt="cbczone" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/114934589?s=200&v=4" />](https://github.com/cbczone)
+[<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/112622793?s=200&v=4" />](https://github.com/final-project-onlineshop)
 
 [<img align="left" alt="D04-2" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2)
 
-[<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/112622793?s=200&v=4" />](https://github.com/final-project-onlineshop)
+[<img align="left" alt="cbczone" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/114934589?s=200&v=4" />](https://github.com/cbczone)
 
 [<img align="left" alt="devteam" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/105494394?s=200&v=4" />](https://github.com/bc-organization-devteam)
 
