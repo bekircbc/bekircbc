@@ -10,7 +10,7 @@ Bekir Cebeci
 
 👯 I am always willing to learn new Technologies. In future, I want to learn Python for datascience and machine learning..
 
-😄 My Portfolio Codes are Bankapp, MeetupGetup, Freizeitpark, Teknoza (E-Shop).. My Focus is backend. I wrote a good-protected backend for Teknoza project. I want to add new versions with MySQL and PosgresQL database for this project..
+😄 My Portfolio Codes are Bankapp, MeetupGetup, Freizeitpark, Teknoza (E-Shop).. My Focus is backend. I wrote a well-protected backend for Teknoza project. I want to add new versions with MySQL and PosgresQL database for this project..
 
 ---
 
