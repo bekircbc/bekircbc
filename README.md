@@ -116,7 +116,7 @@ Bekir Cebeci
 
 [<img align="left" alt="Course Page" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2/DCI-Course)
 
-[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />]()
+[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />](https://github.com/cbczone/ead-shop)
 
 <br />
 <br />
@@ -142,7 +142,7 @@ Bekir Cebeci
 
 ## Project Management
 
-<img align="left" alt="Trello" width="200px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />
+[<img align="left" alt="Trello" width="200px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />](https://github.com/D04-2)
 
 [<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/orgs/final-project-onlineshop/projects/2/views/5)
 
