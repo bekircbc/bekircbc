@@ -50,27 +50,9 @@ Bekir Cebeci
 
 <img align="left" alt="Angular" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
-<img align="left" alt="Mongodb" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Typescript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <img align="left" alt="Cypress" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
-
-<img align="left" alt="PosgresQL" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Python" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Django" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-
-<img align="left" alt="Cpp" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-
-<img align="left" alt="Docker" width="60px" style="margin:10px;"  src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
-
-<img align="left" alt="Gitlab CI/CD" width="40px" style="margin:10px;"  src="https://hub.datree.io/img/cicd/3.png" />
-
-<img align="left" alt="Kübernetes" width="40px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
-
-<img align="left" alt="AWS" width="40px" style="margin:10px;"  src="https://qtxasset.com/quartz/qcloud4/media/image/AWS%20logo_credit%20Diana%20Goovaerts-FierceTelecom.jpg?VersionId=7IMxEs.j9bvLqV09wTTWFr3rL5.JYRGs" />
-
-<img align="left" alt="Jasmine and Karma" width="80px" style="margin:10px;"  src="https://miro.medium.com/max/800/1*QrhFj55-J6ATE3uIcczwmw.png" />
 
 <br />
 <br />
