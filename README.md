@@ -2,15 +2,15 @@ Bekir Cebeci
 
 ## Hi, I am a MERN Stack Developer 👩‍💻
 
-🔭 I am open for a full-time Full Stack Developer job..
+🔭 I am looking for a full-time Full Stack Developer position where I can further deepen my knowledge and hone my skills.
 
-🌱 I like to build websites and web applications in JavaScript, React, Nodejs, Mongodb, Express and Angular..
+🌱 I like to build websites and web applications in JavaScript, React, Nodejs, Mongodb, Express and Angular.
 
-💬 Ask me about my codes. If you are willing to learn, feel free to ask..
+👯 As web development is my passion, I love to learn new Technologies. My goal is to learn more about Python as I am very keen about data science and machine learning.
 
-👯 I am always willing to learn new Technologies. In future, I want to learn Python for datascience and machine learning..
+😄 My Portfolio Codes are Bankapp, MeetupGetup, Freizeitpark, Teknoza (E-Shop). My Focus is full stack. I wrote a well-protected backend for the "Teknoza project". Furthermore, I will add new versions with MySQL and PosgresQL database for this project.
 
-😄 My Portfolio Codes are Bankapp, MeetupGetup, Freizeitpark, Teknoza (E-Shop). My Focus is full stack. I wrote a well-protected backend for Teknoza project. I want to add new versions with MySQL and PosgresQL database for this project..
+💬 Feel free to ask me anything about my codes or capabilities. I am sure that together we can create great IT solutions for customers.
 
 ---
 
@@ -76,29 +76,79 @@ Bekir Cebeci
 
 ## My Projects
 
-[<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;"  src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
 
-[<img align="left" alt="apexcharts" width="40px" style="margin:10px;"  src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" />](https://apexchart-navbar-reactvite.netlify.app/)
+<img align="left" alt="Freizeitpark" width="35px" style="margin:3px;" src="./public/images/matiguland-logo-2.png" />
+<a href="https://freizeitpark.vercel.app/">Github Link</a>
+<a href="https://freizeitpark.vercel.app/">Vercel Link</a>
+</div>
 
-[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://basic-streamingapp.vercel.app/allmeetups)
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+<img align="left" alt="apexcharts" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4"/>
 
-[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://bankmodel-js-jsonserver.vercel.app/)
+<a href="https://freizeitpark.vercel.app/">Github Link</a>
 
-<br />
-<br />
-<br />
+<a href="https://apexchart-navbar-reactvite.netlify.app/">Netlify Link</a>
+
+</div>
+
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />
+
+<a href="https://freizeitpark.vercel.app/">Github Link</a>
+
+<a href="https://basic-streamingapp.vercel.app/allmeetups">Vercel Link</a>
+
+</div>
+
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />
+
+<a href="https://freizeitpark.vercel.app/">Github Link</a>
+
+<a href="https://bankmodel-js-jsonserver.vercel.app/">Vercel Link</a>
+
+</div>
 
 ---
 
 ## Team Projects
 
-[<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://github.com/final-project-onlineshop/teknoza)
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />
 
-[<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-backend.bscebeci.de/api/products)
+<a href="https://github.com/final-project-onlineshop/teknoza">Github Link</a>
 
-[<img align="left" alt="Course Page" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2/DCI-Course)
+<a href="https://bankmodel-js-jsonserver.vercel.app/">Vercel Link</a>
 
-[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />](https://github.com/cbczone/ead-shop)
+</div>
+
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />
+
+<a href="https://github.com/final-project-onlineshop/teknoza">Github Link</a>
+
+<a href="https://teknoza-backend.bscebeci.de/api/products">Hetzner Link</a>
+
+</div>
+
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+<img align="left" alt="Course Page" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />
+
+<a href="https://github.com/D04-2/DCI-Course">Github Link</a>
+
+<a href="https://teknoza-backend.bscebeci.de/api/products">Hetzner Link</a>
+
+</div>
+
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />
+
+<a href="https://github.com/cbczone/ead-shop">Github Link</a>
+
+<a href="https://teknoza-backend.bscebeci.de/api/products">Hetzner Link</a>
+
+</div>
 
 <br />
 <br />
