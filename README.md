@@ -52,6 +52,16 @@ Bekir Cebeci
 
 <img align="left" alt="Typescript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
+<img align="left" alt="Python" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Django" width="40px" style="margin:10px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+
+<img align="left" alt="Docker" width="60px" style="margin:10px;"  src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
+
+<img align="left" alt="Gitlab CI/CD" width="40px" style="margin:10px;"  src="https://hub.datree.io/img/cicd/3.png" />
+
+<img align="left" alt="Kübernetes" width="40px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
+
 <br />
 <br />
 <br />
