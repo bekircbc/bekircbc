@@ -12,6 +12,8 @@ Bekir Cebeci
 
 💬 Feel free to ask me anything about my codes or capabilities. I am sure that together we can create great IT solutions for customers.
 
+🔎 Click on the icons to see my code. If you want to see live-page, click on the links in project-repository.
+
 ---
 
 ## Skills:
@@ -86,52 +88,15 @@ Bekir Cebeci
 
 ## My Projects
 
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+[<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://github.com/bekircbc/freizeitpark)
 
-<img align="left" alt="Freizeitpark" width="35px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />
+[<img align="left" alt="apexcharts" width="40px" style="margin:10px;"  src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" />](https://github.com/bekircbc/apex-charts/)
 
-<a href="https://github.com/bekircbc/freizeitpark">Repository Link</a>
+[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://github.com/bekircbc/meetupgetup-frontend)
 
-<a href="https://freizeitpark.vercel.app/">Vercel Link</a>
+[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://github.com/bekircbc/Bankmodel_js-jsonserver)
 
-</div>
-
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
-
-<img align="left" alt="apexcharts" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4"/>
-
-<a href="https://github.com/bekircbc/apexchart-navbar-reactvite">Repository Link</a>
-
-<a href="https://apexchart-navbar-reactvite.netlify.app/">Netlify Link</a>
-
-</div>
-
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
-
-<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />
-
-<a href="https://github.com/bekircbc/meetupgetup-frontend">Repository Link</a>
-
-<a href="https://basic-streamingapp.vercel.app/allmeetups">Vercel Link</a>
-
-<a href="https://meetup-getup-app.netlify.app/">Netlify Link</a>
-
-</div>
-
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
-
-<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />
-
-<a href="https://github.com/bekircbc/Bankmodel_js-jsonserver">Repository Link</a>
-
-<a href="https://bankmodel-js-jsonserver.vercel.app/">Vercel Link</a>
-
-<a href="https://bankmodellwithjsandjsonserver.netlify.app/">Netlify Link</a>
-
-<a href="https://bekircbc.github.io/Bankmodel_js-jsonserver/">Github Pages Link</a>
-
-</div>
-
+<br />
 <br />
 <br />
 
@@ -139,46 +104,15 @@ Bekir Cebeci
 
 ## Team Projects
 
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
+[<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://github.com/final-project-onlineshop/teknoza)
 
-<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />
+[<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-backend.bscebeci.de/api/products)
 
-<a href="https://github.com/final-project-onlineshop/teknoza">Repository Link</a>
+[<img align="left" alt="Course Page" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2/DCI-Course)
 
-<a href="https://bankmodel-js-jsonserver.vercel.app/">Vercel Link</a>
+[<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />](https://github.com/cbczone/ead-shop)
 
-</div>
-
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
-
-<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />
-
-<a href="https://github.com/final-project-onlineshop/teknoza">Repository Link</a>
-
-<a href="https://teknoza-backend.bscebeci.de/api/products">Hetzner Link</a>
-
-</div>
-
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
-
-<img align="left" alt="Course Page" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />
-
-<a href="https://github.com/D04-2/DCI-Course">Repository Link</a>
-
-<a href="https://teknoza-backend.bscebeci.de/api/products">Hetzner Link</a>
-
-</div>
-
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:30px;">
-
-<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />
-
-<a href="https://github.com/cbczone/ead-shop">Repository Link</a>
-
-<a href="https://teknoza-backend.bscebeci.de/api/products">Hetzner Link</a>
-
-</div>
-
+<br />
 <br />
 <br />
 
