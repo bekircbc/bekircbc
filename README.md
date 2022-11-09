@@ -8,7 +8,7 @@ Bekir Cebeci
 
 👯 As web development is my passion, I love to learn new Technologies. My goal is to learn more about Python as I am very keen about data science and machine learning.
 
-😄 My Portfolio Codes are Bankapp, MeetupGetup, Freizeitpark, Teknoza (E-Shop). My Focus is full stack. I wrote a well-protected backend for the "Teknoza project". Furthermore, I will add new versions with MySQL and PosgresQL database for this project.
+😄 My Portfolio Codes are Bankapp, MeetupGetup, Freizeitpark, Teknoza (E-Shop). My Focus is full stack. I wrote a well-protected backend for the "Teknoza project". Furthermore, I will add new versions with MySQL and PostgresQL database for this project.
 
 💬 Feel free to ask me anything about my codes or capabilities. I am sure that together we can create great IT solutions for customers.
 
@@ -52,8 +52,6 @@ Bekir Cebeci
 
 <img align="left" alt="Typescript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<img align="left" alt="Cypress" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
-
 <br />
 <br />
 <br />
@@ -61,6 +59,8 @@ Bekir Cebeci
 ---
 
 ## Test Technologies
+
+<img align="left" alt="Cypress" width="40px" style="margin:10px;"  src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75" />
 
 <img align="left" alt="Rest" width="120px" style="margin:10px;"  src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2017/04/VREST-Logo.jpg" />
 
