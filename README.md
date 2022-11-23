@@ -88,11 +88,11 @@ Bekir Cebeci
 
 ## My Projects
 
-[<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://github.com/bekircbc/freizeitpark)
+[<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
 
-[<img align="left" alt="apexcharts" width="40px" style="margin:10px;"  src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" />](https://github.com/bekircbc/apex-charts/)
+[<img align="left" alt="apexcharts" width="40px" style="margin:10px;"  src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" />](https://apexchart-navbar-reactvite.netlify.app/)
 
-[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://github.com/bekircbc/meetupgetup-frontend)
+[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetup-getup-hetzner.vercel.app/allmeetups)
 
 [<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://github.com/bekircbc/Bankmodel_js-jsonserver)
 
