@@ -134,6 +134,18 @@ Bekir Cebeci
 
 ---
 
+## Medium Artikels
+
+[<img align="left" alt="Backend Nodejs" width="200px" style="margin:10px;" src="./public/images/artikel1.png" />](https://medium.com/@b.burakcebecii/an-examle-to-write-nodejs-backend-with-bcryptjs-and-jsonwebtoken-1a4b185872d3)
+
+[<img align="left" alt="Backend Nodejs" width="200px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5)
+
+<br />
+<br />
+<br />
+
+---
+
 ## Project Management
 
 [<img align="left" alt="Trello" width="200px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />](https://github.com/D04-2/DCI-Course)
