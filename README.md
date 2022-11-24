@@ -134,11 +134,11 @@ Bekir Cebeci
 
 ---
 
-## Medium Artikels
+## Medium Articles
 
-[<img align="left" alt="Backend Nodejs" width="200px" style="margin:10px;" src="./public/images/artikel1.png" />](https://medium.com/@b.burakcebecii/an-examle-to-write-nodejs-backend-with-bcryptjs-and-jsonwebtoken-1a4b185872d3)
+[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/artikel1.png" />](https://medium.com/@b.burakcebecii/an-examle-to-write-nodejs-backend-with-bcryptjs-and-jsonwebtoken-1a4b185872d3)
 
-[<img align="left" alt="Backend Nodejs" width="200px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5)
+[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5)
 
 <br />
 <br />
