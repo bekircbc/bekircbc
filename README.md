@@ -12,7 +12,7 @@ Bekir Cebeci
 
 💬 Feel free to ask me anything about my codes or capabilities. I am sure that together we can create great IT solutions for customers.
 
-🔎 Click on the icons to see my code, organizations and articles. If you want to see live-page, click on the links in project-repository.
+🔎 Click on the icons to see my code, deployed projects, organizations and articles.
 
 ---
 
@@ -86,7 +86,7 @@ Bekir Cebeci
 
 ---
 
-## My Projects
+## Github Links of My Projects
 
 [<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://github.com/bekircbc/freizeitpark)
 
@@ -104,7 +104,7 @@ Bekir Cebeci
 
 ---
 
-## Team Projects
+## Github Links of Team Projects
 
 [<img align="left" alt="Teknoza" width="180px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://github.com/final-project-onlineshop/teknoza)
 
@@ -113,6 +113,30 @@ Bekir Cebeci
 [<img align="left" alt="Course Page" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2/DCI-Course)
 
 [<img align="left" alt="EAD" width="40px" style="margin:10px;" src="./public/images/EAD.png" />](https://github.com/cbczone/ead-shop)
+
+<br />
+<br />
+<br />
+
+---
+
+## Links for Projects
+
+[<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
+
+[<img align="left" alt="apexcharts" width="40px" style="margin:10px;"  src="./public/images/apex.gif" />](https://apexchart-navbar-reactvite.netlify.app/)
+
+[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetup-getup-hetzner.vercel.app/allmeetups)
+
+[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://bekircbc.github.io/Bankmodel_js-jsonserver/)
+
+[<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://numeraljs-navbar-reactvite.vercel.app/)
+
+[<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products)
+
+[<img align="left" alt="backend-meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetupgetup.bscebeci.de/api/meetups)
+
+[<img align="left" alt="frontend-teknoza" width="160px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://teknoza-frontend.vercel.app/home)
 
 <br />
 <br />
