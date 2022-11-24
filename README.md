@@ -120,7 +120,7 @@ Bekir Cebeci
 
 ---
 
-## Links for Projects
+## Deployment Links of Projects
 
 [<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
 
