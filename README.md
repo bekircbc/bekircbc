@@ -142,6 +142,8 @@ Bekir Cebeci
 
 [<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5)
 
+[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://medium.com/@b.burakcebecii/using-numeraljs-eb1800858f91)
+
 <br />
 <br />
 <br />
