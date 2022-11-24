@@ -90,7 +90,7 @@ Bekir Cebeci
 
 [<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://github.com/bekircbc/freizeitpark)
 
-[<img align="left" alt="apexcharts" width="40px" style="margin:15px;"  src="./public/images/apex.gif" />](https://github.com/bekircbc/apex-charts)
+[<img align="left" alt="apexcharts" width="40px" style="margin:10px;margin-right:20px;"  src="./public/images/apex.gif" />](https://github.com/bekircbc/apex-charts)
 
 [<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://github.com/bekircbc/meetup-getup-hetzner)
 
@@ -124,7 +124,7 @@ Bekir Cebeci
 
 [<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
 
-[<img align="left" alt="apexcharts" width="40px" style="margin:10px;"  src="./public/images/apex.gif" />](https://apexchart-navbar-reactvite.netlify.app/)
+[<img align="left" alt="apexcharts" width="40px" style="margin:10px;margin-right:20px;"  src="./public/images/apex.gif" />](https://apexchart-navbar-reactvite.netlify.app/)
 
 [<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetup-getup-hetzner.vercel.app/allmeetups)
 
