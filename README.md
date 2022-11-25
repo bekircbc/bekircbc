@@ -146,6 +146,16 @@ Bekir Cebeci
 
 ---
 
+## Published npm Packages
+
+[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/Cebrify.png" />](https://www.npmjs.com/package/cebrify)
+
+<br />
+<br />
+<br />
+
+---
+
 ## Github Organizations
 
 [<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/112622793?s=200&v=4" />](https://github.com/final-project-onlineshop)
