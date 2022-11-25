@@ -176,11 +176,13 @@ Bekir Cebeci
 
 [<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/artikel1.png" />](https://medium.com/@b.burakcebecii/an-examle-to-write-nodejs-backend-with-bcryptjs-and-jsonwebtoken-1a4b185872d3)
 
-[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5)
+[<img align="left" alt="dotenv" width="40px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5)
 
-[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://medium.com/@b.burakcebecii/using-numeraljs-eb1800858f91)
+[<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://medium.com/@b.burakcebecii/using-numeraljs-eb1800858f91)
 
-[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/article4.png" />](https://medium.com/@b.burakcebecii/a-simple-backend-example-with-jsonserver-6cca7f64026b)
+[<img align="left" alt="jsonserver" width="40px" style="margin:10px;" src="./public/images/article4.png" />](https://medium.com/@b.burakcebecii/a-simple-backend-example-with-jsonserver-6cca7f64026b)
+
+[<img align="left" alt="Cebrify" width="40px" style="margin:10px;" src="./public/images/Cebrify.png" />](https://medium.com/@b.burakcebecii/cebrify-a-npm-package-79b374527a37)
 
 <br />
 <br />
