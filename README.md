@@ -208,9 +208,11 @@ Bekir Cebeci
 
 Feel free to contact..
 
-[<img align="left" alt="Final-Project" width="75px" style="margin:10px;" src="https://qph.cf2.quoracdn.net/main-qimg-aebe52c5836835593474dc349266566c" />](https://www.linkedin.com/in/bekir-cebeci-a16a571a3/)
+[<img align="left" alt="Linkedin" width="75px" style="margin:10px;" src="https://qph.cf2.quoracdn.net/main-qimg-aebe52c5836835593474dc349266566c" />](https://www.linkedin.com/in/bekir-cebeci-a16a571a3/)
 
-[<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.png" />](https://www.xing.com/profile/Bekir_Cebeci3/cv)
+[<img align="left" alt="Xing" width="40px" style="margin:10px;" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.png" />](https://www.xing.com/profile/Bekir_Cebeci3/cv)
+
+[<img align="left" alt="Medium" width="40px" style="margin:10px;" src="./public/images/medium.png" />](https://medium.com/@b.burakcebecii)
 
 <br/>
 <br/>
