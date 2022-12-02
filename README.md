@@ -212,7 +212,7 @@ Feel free to contact..
 
 [<img align="left" alt="Xing" width="40px" style="margin:10px;" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.png" />](https://www.xing.com/profile/Bekir_Cebeci3/cv)
 
-[<img align="left" alt="Medium" width="40px" style="margin:10px;" src="./public/images/medium.png" />](https://medium.com/@b.burakcebecii)
+[<img align="left" alt="Medium" width="70px" style="margin-top:10px;margin-left:25px;" src="./public/images/medium.png" />](https://medium.com/@b.burakcebecii)
 
 <br/>
 <br/>
