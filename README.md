@@ -94,7 +94,7 @@ Bekir Cebeci
 
 [<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://github.com/bekircbc/meetup-getup-hetzner)
 
-[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://github.com/bekircbc/cbcbank-app)
+[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/cbcbank.png" />](https://github.com/bekircbc/cbcbank-app)
 
 [<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://github.com/bekircbc/numeraljs-navbar-reactvite)
 
@@ -128,7 +128,7 @@ Bekir Cebeci
 
 [<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetup-getup-hetzner.vercel.app/allmeetups)
 
-[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://cbcbank-app.vercel.app/)
+[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/cbcbank.png" />](https://cbcbank-app.vercel.app/)
 
 [<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://numeraljs-navbar-reactvite.vercel.app/)
 
@@ -136,13 +136,13 @@ Bekir Cebeci
 
 [<img align="left" alt="api-library" width="40px" style="margin:10px;" src="./public/images/apilibrary.png" />](https://api-library-frontend-ejs.netlify.app/)
 
-[<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://reducer-api-fetch.netlify.app/welcome)
+[<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/bookclub.png" />](https://reducer-api-fetch.netlify.app/welcome)
 
 [<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products)
 
 [<img align="left" alt="backend-meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetupgetup.bscebeci.de/api/meetups)
 
-[<img align="left" alt="CBC Bank - json server" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://cbcbank.bscebeci.de/accounts)
+[<img align="left" alt="CBC Bank - json server" width="40px" style="margin:10px;" src="./public/images/cbcbank.png" />](https://cbcbank.bscebeci.de/accounts)
 
 [<img align="left" alt="apis-for-beginner" width="40px" style="margin:10px;" src="./public/images/APIS.png" />](https://apis-for-beginner.bscebeci.de/api/books)
 
