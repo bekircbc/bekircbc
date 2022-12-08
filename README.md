@@ -146,8 +146,6 @@ Bekir Cebeci
 
 ---
 
----
-
 ## Deployment Links of Backend and APIs
 
 [<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products)
