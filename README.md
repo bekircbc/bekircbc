@@ -136,7 +136,7 @@ Bekir Cebeci
 
 [<img align="left" alt="api-library" width="40px" style="margin:10px;" src="./public/images/apilibrary.png" />](https://api-library-frontend-ejs.netlify.app/)
 
-[<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/bookclub.png" />](https://reducer-api-fetch.netlify.app/welcome)
+[<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/bookclub.png" />](https://reducer-api-fetch.netlify.app/)
 
 [<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products)
 
