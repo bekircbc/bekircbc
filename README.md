@@ -134,7 +134,9 @@ Bekir Cebeci
 
 [<img align="left" alt="recoiljs" width="40px" style="margin:10px;" src="./public/images/todocounter.png" />](https://recoiljs-basic.vercel.app/)
 
-[<img align="left" alt="recoiljs" width="40px" style="margin:10px;" src="./public/images/apilibrary.png" />](https://api-library-frontend-ejs.netlify.app/)
+[<img align="left" alt="api-library" width="40px" style="margin:10px;" src="./public/images/apilibrary.png" />](https://api-library-frontend-ejs.netlify.app/)
+
+[<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://reducer-api-fetch.netlify.app/welcome)
 
 [<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products)
 
@@ -142,7 +144,7 @@ Bekir Cebeci
 
 [<img align="left" alt="CBC Bank - json server" width="40px" style="margin:10px;" src="./public/images/icon.png" />](https://cbcbank.bscebeci.de/accounts)
 
-[<img align="left" alt="CBC Bank - json server" width="40px" style="margin:10px;" src="./public/images/APIS.png" />](https://apis-for-beginner.bscebeci.de/api/books)
+[<img align="left" alt="apis-for-beginner" width="40px" style="margin:10px;" src="./public/images/APIS.png" />](https://apis-for-beginner.bscebeci.de/api/books)
 
 [<img align="left" alt="frontend-teknoza" width="160px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://teknoza-frontend.vercel.app/home)
 
