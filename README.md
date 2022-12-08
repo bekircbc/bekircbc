@@ -138,6 +138,18 @@ Bekir Cebeci
 
 [<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/bookclub.png" />](https://reducer-api-fetch.netlify.app/)
 
+[<img align="left" alt="frontend-teknoza" width="160px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://teknoza-frontend.vercel.app/home)
+
+<br />
+<br />
+<br />
+
+---
+
+---
+
+## Deployment Links of Backend and APIs
+
 [<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products)
 
 [<img align="left" alt="backend-meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetupgetup.bscebeci.de/api/meetups)
@@ -146,13 +158,9 @@ Bekir Cebeci
 
 [<img align="left" alt="apis-for-beginner" width="40px" style="margin:10px;" src="./public/images/APIS.png" />](https://apis-for-beginner.bscebeci.de/api/books)
 
-[<img align="left" alt="frontend-teknoza" width="160px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://teknoza-frontend.vercel.app/home)
-
 <br />
 <br />
 <br />
-
----
 
 ## Published npm Packages
 
