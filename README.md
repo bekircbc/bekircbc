@@ -230,4 +230,4 @@ Feel free to contact..
 <br/>
 <br/>
 
-![logo](./public/images/footer.png "I am a father 😉 a husband 😍 a gamer 🎮 a runner 🏃‍♂️ a cat lover 🐈‍⬛ with a big sense of humor ☕. Always willing to learn and open to innovations 🌏.Excited about working on ambitious projects 🎗with positive people. For more info, feel free to contact me🍀🎶🍀")
+![logo](./public/images/footer.png "I am a father 😉 a husband 😍 a gamer 🎮 a runner 🏃‍♂️ a cat lover 🐈‍⬛ with a big sense of humor ☕. Always willing to learn and open to innovations 🌏. Excited about working on ambitious projects 🎗with positive people. For more info, feel free to contact me🍀🎶🍀")
