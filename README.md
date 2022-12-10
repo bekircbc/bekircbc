@@ -122,23 +122,23 @@ Bekir Cebeci
 
 ## Deployment Links of Projects
 
-[<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/)
+[<img align="left" alt="Freizeitpark" width="40px" style="margin:10px;" src="./public/images/matiguland-logo-2.png" />](https://freizeitpark.vercel.app/ "Matugiland")
 
-[<img align="left" alt="apexcharts" width="40px" style="margin:10px;margin-right:20px;"  src="./public/images/apex.gif" />](https://apexchart-navbar-reactvite.netlify.app/)
+[<img align="left" alt="apexcharts" width="40px" style="margin:10px;margin-right:20px;"  src="./public/images/apex.gif" />](https://apexchart-navbar-reactvite.netlify.app/ "Apex Charts")
 
-[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetup-getup-hetzner.vercel.app/allmeetups)
+[<img align="left" alt="meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetup-getup-hetzner.vercel.app/allmeetups "Meetup Getup")
 
-[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/cbcbank.png" />](https://cbcbank-app.vercel.app/)
+[<img align="left" alt="CBC Bank" width="40px" style="margin:10px;" src="./public/images/cbcbank.png" />](https://cbcbank-app.vercel.app/ "Cbc Bank")
 
-[<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://numeraljs-navbar-reactvite.vercel.app/)
+[<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://numeraljs-navbar-reactvite.vercel.app/ "Numeraljs")
 
-[<img align="left" alt="recoiljs" width="40px" style="margin:10px;" src="./public/images/todocounter.png" />](https://recoiljs-basic.vercel.app/)
+[<img align="left" alt="recoiljs" width="40px" style="margin:10px;" src="./public/images/todocounter.png" />](https://recoiljs-basic.vercel.app/ "Todo & Counter")
 
-[<img align="left" alt="api-library" width="40px" style="margin:10px;" src="./public/images/apilibrary.png" />](https://api-library-frontend-ejs.netlify.app/)
+[<img align="left" alt="api-library" width="40px" style="margin:10px;" src="./public/images/apilibrary.png" />](https://api-library-frontend-ejs.netlify.app/ "API Library")
 
-[<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/bookclub.png" />](https://reducer-api-fetch.netlify.app/)
+[<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/bookclub.png" />](https://reducer-api-fetch.netlify.app/ "The Online Book Club")
 
-[<img align="left" alt="frontend-teknoza" width="160px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://teknoza-frontend.vercel.app/home)
+[<img align="left" alt="frontend-teknoza" width="160px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://teknoza-frontend.vercel.app/home "Teknoza")
 
 <br />
 <br />
@@ -148,13 +148,13 @@ Bekir Cebeci
 
 ## Deployment Links of Backend and APIs
 
-[<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products)
+[<img align="left" alt="backend-teknoza" width="40px" style="margin:10px;" src="./public/images/tknz.png" />](https://teknoza-cypress.bscebeci.de/api/products "Teknoza Backend")
 
-[<img align="left" alt="backend-meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetupgetup.bscebeci.de/api/meetups)
+[<img align="left" alt="backend-meetupgetup" width="40px" style="margin:10px;" src="./public/images/meetupgetup.png" />](https://meetupgetup.bscebeci.de/api/meetups "Meetup Getup Backend")
 
-[<img align="left" alt="CBC Bank - json server" width="40px" style="margin:10px;" src="./public/images/cbcbank.png" />](https://cbcbank.bscebeci.de/accounts)
+[<img align="left" alt="CBC Bank - json server" width="40px" style="margin:10px;" src="./public/images/cbcbank.png" />](https://cbcbank.bscebeci.de/accounts "Cbc Bank Backend - Json Server")
 
-[<img align="left" alt="apis-for-beginner" width="40px" style="margin:10px;" src="./public/images/APIS.png" />](https://apis-for-beginner.bscebeci.de/api/books)
+[<img align="left" alt="apis-for-beginner" width="40px" style="margin:10px;" src="./public/images/APIS.png" />](https://apis-for-beginner.bscebeci.de/api/books "APIs for beginner")
 
 <br />
 <br />
@@ -162,7 +162,7 @@ Bekir Cebeci
 
 ## Published npm Packages
 
-[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/Cebrify.png" />](https://www.npmjs.com/package/cebrify)
+[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/Cebrify.png" />](https://www.npmjs.com/package/cebrify "Cebrify - My First Npm Package")
 
 <br />
 <br />
@@ -172,13 +172,13 @@ Bekir Cebeci
 
 ## Github Organizations
 
-[<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/112622793?s=200&v=4" />](https://github.com/final-project-onlineshop)
+[<img align="left" alt="Final-Project" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/112622793?s=200&v=4" />](https://github.com/final-project-onlineshop "Organizations - final-project-onlineshop")
 
-[<img align="left" alt="D04-2" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2)
+[<img align="left" alt="D04-2" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/92315585?s=200&v=4" />](https://github.com/D04-2 "Organizations - D04-2 (DCI Course Org)")
 
-[<img align="left" alt="cbczone" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/114934589?s=200&v=4" />](https://github.com/cbczone)
+[<img align="left" alt="cbczone" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/114934589?s=200&v=4" />](https://github.com/cbczone "Organizations - cbczone (Family Org)")
 
-[<img align="left" alt="devteam" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/105494394?s=200&v=4" />](https://github.com/bc-organization-devteam)
+[<img align="left" alt="devteam" width="40px" style="margin:10px;" src="https://avatars.githubusercontent.com/u/105494394?s=200&v=4" />](https://github.com/bc-organization-devteam "Organizations - bc-organization-devteam")
 
 <br />
 <br />
@@ -188,15 +188,15 @@ Bekir Cebeci
 
 ## Medium Articles
 
-[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/artikel1.png" />](https://medium.com/@b.burakcebecii/an-examle-to-write-nodejs-backend-with-bcryptjs-and-jsonwebtoken-1a4b185872d3)
+[<img align="left" alt="Backend Nodejs" width="40px" style="margin:10px;" src="./public/images/artikel1.png" />](https://medium.com/@b.burakcebecii/an-examle-to-write-nodejs-backend-with-bcryptjs-and-jsonwebtoken-1a4b185872d3 "An Example to write Noejs Backend with Bcryptjs and Jsonwebtoken")
 
-[<img align="left" alt="dotenv" width="40px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5)
+[<img align="left" alt="dotenv" width="40px" style="margin:10px;" src="./public/images/artikel2.png" />](https://medium.com/@b.burakcebecii/using-dotenv-and-protecting-your-username-and-passwords-cc20e127c6c5 "Using dotenv and protecting your username and passwords")
 
-[<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://medium.com/@b.burakcebecii/using-numeraljs-eb1800858f91)
+[<img align="left" alt="numeraljs" width="40px" style="margin:10px;" src="./public/images/numeraljs.png" />](https://medium.com/@b.burakcebecii/using-numeraljs-eb1800858f91 "Using Numeraljs")
 
-[<img align="left" alt="jsonserver" width="40px" style="margin:10px;" src="./public/images/article4.png" />](https://medium.com/@b.burakcebecii/a-simple-backend-example-with-jsonserver-6cca7f64026b)
+[<img align="left" alt="jsonserver" width="40px" style="margin:10px;" src="./public/images/article4.png" />](https://medium.com/@b.burakcebecii/a-simple-backend-example-with-jsonserver-6cca7f64026b "A Simple Backend Example with Jsonserver")
 
-[<img align="left" alt="Cebrify" width="40px" style="margin:10px;" src="./public/images/Cebrify.png" />](https://medium.com/@b.burakcebecii/cebrify-a-npm-package-79b374527a37)
+[<img align="left" alt="Cebrify" width="40px" style="margin:10px;" src="./public/images/Cebrify.png" />](https://medium.com/@b.burakcebecii/cebrify-a-npm-package-79b374527a37 "Cebrify - A Npm Package")
 
 <br />
 <br />
@@ -206,9 +206,9 @@ Bekir Cebeci
 
 ## Project Management
 
-[<img align="left" alt="Trello" width="200px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />](https://github.com/D04-2/DCI-Course)
+[<img align="left" alt="Trello" width="200px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Trello-logo-blue.svg/2560px-Trello-logo-blue.svg.png" />](https://github.com/D04-2/DCI-Course "Trello - DCI Course Organization")
 
-[<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/orgs/final-project-onlineshop/projects/2/views/5)
+[<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/orgs/final-project-onlineshop/projects/2/views/5 "Github - Final Project Onlineshop")
 
 <br />
 <br />
@@ -220,29 +220,14 @@ Bekir Cebeci
 
 Feel free to contact..
 
-[<img align="left" alt="Linkedin" width="75px" style="margin:10px;" src="https://qph.cf2.quoracdn.net/main-qimg-aebe52c5836835593474dc349266566c" />](https://www.linkedin.com/in/bekir-cebeci-a16a571a3/)
+[<img align="left" alt="Linkedin" width="75px" style="margin:10px;" src="https://qph.cf2.quoracdn.net/main-qimg-aebe52c5836835593474dc349266566c" />](https://www.linkedin.com/in/bekir-cebeci-a16a571a3/ "My Linkedin")
 
-[<img align="left" alt="Xing" width="40px" style="margin:10px;" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.png" />](https://www.xing.com/profile/Bekir_Cebeci3/cv)
+[<img align="left" alt="Xing" width="40px" style="margin:10px;" src="https://logosandtypes.com/wp-content/uploads/2020/08/xing.png" />](https://www.xing.com/profile/Bekir_Cebeci3/cv "My Xing")
 
-[<img align="left" alt="Medium" width="70px" style="margin-top:10px;margin-left:25px;" src="./public/images/medium.png" />](https://medium.com/@b.burakcebecii)
+[<img align="left" alt="Medium" width="70px" style="margin-top:10px;margin-left:25px;" src="./public/images/medium.png" />](https://medium.com/@b.burakcebecii "My Medium")
 
 <br/>
 <br/>
 <br/>
 
 ![logo](./public/images/footer.png)
-
-<!--
-**bekircbc/bekircbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
