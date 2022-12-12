@@ -138,6 +138,8 @@ Bekir Cebeci
 
 [<img align="left" alt="book-club" width="40px" style="margin:10px;" src="./public/images/bookclub.png" />](https://reducer-api-fetch.netlify.app/ "The Online Book Club")
 
+[<img align="left" alt="python-skeleton-flask" width="40px" style="margin:10px;" src="./public/images/python-skeleton.png" />](https://python-skeleton-flask.bscebeci.de/ "The First Python Skeleton Flask Project")
+
 [<img align="left" alt="frontend-teknoza" width="160px" style="margin:10px;" src="./public/images/logo-teknoza.png" />](https://teknoza-frontend.vercel.app/home "Teknoza")
 
 <br />
