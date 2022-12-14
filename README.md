@@ -200,6 +200,8 @@ Bekir Cebeci
 
 [<img align="left" alt="Cebrify" width="40px" style="margin:10px;" src="./public/images/Cebrify.png" />](https://medium.com/@b.burakcebecii/cebrify-a-npm-package-79b374527a37 "Cebrify - A Npm Package")
 
+[<img align="left" alt="Python Skeleton Flask Project" width="40px" style="margin:10px;" src="./public/images/python-skeleton.png" />](https://medium.com/@b.burakcebecii/creating-a-basic-python-skeleton-flask-project-7903b248c1f4 "Creating a Basic Python Skeleton Flask Project")
+
 <br />
 <br />
 <br />
