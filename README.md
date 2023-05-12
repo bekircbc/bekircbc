@@ -64,7 +64,7 @@ Bekir Cebeci
 
 <img align="left" alt="Kübernetes" width="40px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
 
-<img align="left" alt="Camunda" width="40px" style="margin:10px;" 
+<img align="left" alt="Camunda" width="80px" style="margin:10px;" 
  src="https://camunda.com/wp-content/uploads/2020/05/logo-camunda-black.svg" />
 
 <br />
