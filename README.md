@@ -231,7 +231,7 @@ Bekir Cebeci
 
 [<img align="left" alt="GitHub" width="40px" style="margin:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com/orgs/final-project-onlineshop/projects/2/views/5 "Github - Final Project Onlineshop")
 
-<img align="left" alt="Jira" width="100px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" />
+<img align="left" alt="Jira" width="200px" style="margin:10px;"  src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" />
 
 <br />
 <br />
